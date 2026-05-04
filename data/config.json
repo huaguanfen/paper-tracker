@@ -1,0 +1,4225 @@
+{
+  "categories": [
+    {
+      "key": "top",
+      "label": "综合TOP",
+      "color": "#92400e",
+      "journals": [
+        {
+          "name": "中国社会科学",
+          "issn": "11-1211/C",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTVSd-4prcMMUXedyNpcuZwjTXihp6-Fs9JBaYv2UHsiNpC2kzsyb41uHQ75gvAe3Yqob3kd5-PQP7bbnUs_nTwB3I2PB_oIbO8=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Nature",
+          "issn": "0036-8075",
+          "url": "https://www.nature.com/nature/",
+          "language": "en",
+          "original_category": "英文TOP-综合",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Science",
+          "issn": "0028-0836",
+          "url": "https://www.science.org/journal/science",
+          "language": "en",
+          "original_category": "英文TOP-综合",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Cell",
+          "issn": "1097-4172",
+          "url": "https://www.cell.com/cell/home",
+          "language": "en",
+          "original_category": "英文TOP-综合",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        }
+      ]
+    },
+    {
+      "key": "economics",
+      "label": "经济学",
+      "color": "#1e40af",
+      "journals": [
+        {
+          "name": "经济研究",
+          "issn": "11-1081/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTU6DJp1fh9EE0LZnCovi1Bo4jmrqlzfDJSBi8HzTbZGE5gw8XQXtwpvyRvFtbzTcSsKV2tcph85LqIShO_9OzfNg7MkQUmxu00=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文特类",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "世界经济",
+          "issn": "11-1138/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTXmvf_11YJTIVn9-aTQff1tg3QAOBL7rq9vOYYzxd8eWwukLjS93Zz9zeCPr8HPYA9OoJkTPVGBwUAtP4XfCk-Ri_HO-CtitKo=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "经济学（季刊）",
+          "issn": "11-6010/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTWrMbODCpzxeWzI31LBVxwQZ3T2pAk7tJOggHGKgsg4xyguqmNHEKfe9ojUCgkXaxJsGy6IKdejUxUv4tUX0Tvk_EnA7P3A4v8=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "中国工业经济",
+          "issn": "11-3536/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTUhyy--jmXqb_G3JmbEOjWZQw3eDnqxiB_nF_Bzr8rtnar5lJd8XygbJ8x_LMduJCzzk1C2tchNNrhQQo8bbrKpMk2ZjJLPvyg=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "数量经济技术经济研究",
+          "issn": "11-1087/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTUCsBlAvbs4Ync-O2XZVhy7fh4z-2ydtft2YwCx3GybjojRZ1AxIEJVr9Sx3IzavcEwefl8hUBrSY4lHGkpX7s3ehjnprJxhX8=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "金融研究",
+          "issn": "11-1268/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTW0h8PioOd7jLZGtRYrJbilnPUnldL6zh6Nh8j1v9WXPPCkp-YiwxOHuAUNof7mCp4-WK3tBqmfmsXlaCYA5vHj3AiYGbyxlIg=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "会计研究",
+          "issn": "11-1078/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTXyZZS8HJiLnAPVi74jPn2NC3MOiC62WE7_mXOQe5He6dfjYUfFs31fC1b-OOSd77D-Q7-PhGFMHGACEplVYJyn3uj7Msyes_E=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "中国农村经济",
+          "issn": "11-1262/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTVMGe8pu6KHE5Av1KEf6z5L1AMfseI2TDnNxtzLxecLLhmlLt-hx6EZoadlvVU3uGpF4zDC-meUGpRHEc7nmWLg9rTJ4JkDL6I=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "财贸经济",
+          "issn": "11-1166/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTVryp33Ld1g3W0eXQdNWDB8mkkMVTY9BrXdxgMmGYyfzNdIbf07WkRTjJpBWVyatjams0TAT8_FQgyKKnCQgPjynT3I6t1S650=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "经济学动态",
+          "issn": "11-1057/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTX709DrHmNa9r1qs95c8IKMd202ONSU7AzVfDLtAoIU1pPKjxmnMEBXNCw427qhnRzTpqQBbfiHuhlnSlBkTPIFuvRym3nDeEg=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "财经研究",
+          "issn": "31-1012/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTWmUX21H339YxsJYN-XzJzyuOepli0dHKObkIFUVl-Wqa-QlG_ONrKCmMrVcIcqVkMT2EzoWc2IbRFX9WrUMiCL67ZDnciyETk=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Economic Review",
+          "issn": "0002-8282",
+          "url": "https://www.aeaweb.org/journals/aer",
+          "language": "en",
+          "original_category": "英文TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Economic Studies",
+          "issn": "0034-6527",
+          "url": "https://academic.oup.com/restud",
+          "language": "en",
+          "original_category": "英文TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Econometrica",
+          "issn": "0012-9682",
+          "url": "https://www.econometricsociety.org/publications/econometrica",
+          "language": "en",
+          "original_category": "英文TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Political Economy",
+          "issn": "0022-3808",
+          "url": "https://www.journals.uchicago.edu/journals/jpe/about",
+          "language": "en",
+          "original_category": "英文TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Quarterly Journal of Economics",
+          "issn": "0033-5533",
+          "url": "https://academic.oup.com/qje",
+          "language": "en",
+          "original_category": "英文TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Finance",
+          "issn": "0022-1082",
+          "url": "https://afajof.org/journal-of-finance/",
+          "language": "en",
+          "original_category": "英文TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Journal of Economic Perspectives",
+          "issn": "0895-3309",
+          "url": "https://www.aeaweb.org/journals/jep",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Financial Studies",
+          "issn": "0893-9454",
+          "url": "https://academic.oup.com/rfs",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Journal of Economic Literature",
+          "issn": "0022-0515",
+          "url": "https://www.aeaweb.org/journals/jel",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Financial Economics",
+          "issn": "0304-405X",
+          "url": "https://www.sciencedirect.com/journal/journal-of-financial-economics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "American Economic Journal-Applied Economics",
+          "issn": "1945-7782",
+          "url": "https://www.aeaweb.org/journals/app",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Economics and Statistics",
+          "issn": "0034-6535",
+          "url": "https://direct.mit.edu/rest",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Labor Economics",
+          "issn": "0734-306X",
+          "url": "https://www.journals.uchicago.edu/journals/jole/about",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Economic Journal-Macroeconomics",
+          "issn": "1945-7707",
+          "url": "https://www.aeaweb.org/journals/mac",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Public Economics",
+          "issn": "0047-2727",
+          "url": "https://www.sciencedirect.com/journal/journal-of-public-economics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Urban Economics",
+          "issn": "0094-1190",
+          "url": "https://www.sciencedirect.com/journal/journal-of-urban-economics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Development Economics",
+          "issn": "0304-3878",
+          "url": "https://www.sciencedirect.com/journal/journal-of-development-economics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Monetary Economics",
+          "issn": "0304-3932",
+          "url": "https://www.sciencedirect.com/journal/journal-of-monetary-economics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of the European Economic Association",
+          "issn": "1542-4766",
+          "url": "https://academic.oup.com/jeea",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of International Economics",
+          "issn": "0022-1996",
+          "url": "https://www.sciencedirect.com/journal/journal-of-international-economics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Economic Journal",
+          "issn": "0013-0133",
+          "url": "https://academic.oup.com/ej",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Econometrics",
+          "issn": "0304-4076",
+          "url": "https://www.sciencedirect.com/journal/journal-of-econometrics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Econometric Theory",
+          "issn": "0266-4666",
+          "url": "https://www.cambridge.org/core/journals/econometric-theory",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Economic History Review",
+          "issn": "0013-0117",
+          "url": "https://onlinelibrary.wiley.com/journal/14680289",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Economic Theory",
+          "issn": "0022-0531",
+          "url": "https://www.sciencedirect.com/journal/journal-of-economic-theory",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Economic Review",
+          "issn": "0020-6598",
+          "url": "https://onlinelibrary.wiley.com/journal/14682354",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Environmental Economics and Management",
+          "issn": "0095-0696",
+          "url": "https://www.sciencedirect.com/journal/journal-of-environmental-economics-and-management",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Economic Journal-Microeconomics",
+          "issn": "1945-7669",
+          "url": "https://www.aeaweb.org/journals/mic",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Economic Geography",
+          "issn": "0013-0095",
+          "url": "https://www.tandfonline.com/journals/recg20",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Economic Geography",
+          "issn": "1468-2702",
+          "url": "https://academic.oup.com/joeg",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Quantitative Economics",
+          "issn": "1759-7323",
+          "url": "https://onlinelibrary.wiley.com/journal/17597331",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Theoretical Economics",
+          "issn": "1933-6837",
+          "url": "https://econtheory.org/",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Economic Journal: Economic Policy",
+          "issn": "1945-7731",
+          "url": "https://www.aeaweb.org/journals/pol",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Rand Journal of Economics",
+          "issn": "0741-6261",
+          "url": "https://onlinelibrary.wiley.com/journal/17562171",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Games and Economic Behavior",
+          "issn": "0899-8256",
+          "url": "https://www.sciencedirect.com/journal/games-and-economic-behavior",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Comparative Economics",
+          "issn": "0147-5967",
+          "url": "https://www.sciencedirect.com/journal/journal-of-comparative-economics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Health Economics",
+          "issn": "0167-6296",
+          "url": "https://www.sciencedirect.com/journal/journal-of-health-economics",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Financial and Quantitative Analysis",
+          "issn": "0022-1090",
+          "url": "https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis",
+          "language": "en",
+          "original_category": "经济学特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Energy Economics",
+          "issn": "0140-9883",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Financial Econometrics",
+          "issn": "1479-8409",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Banking & Finance",
+          "issn": "0378-4266",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Agricultural Economics",
+          "issn": "0021-857X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Population Economics",
+          "issn": "0933-1433",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Financial Markets",
+          "issn": "1386-4181",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of International Money and Finance",
+          "issn": "0261-5606",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Risk and Uncertainty",
+          "issn": "0895-5646",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Financial Management",
+          "issn": "0046-3892",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Applied Econometrics",
+          "issn": "0883-7252",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Empirical Finance",
+          "issn": "0927-5398",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Economic History",
+          "issn": "0022-0507",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Experimental Economics",
+          "issn": "1386-4157",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Economic Behavior & Organization",
+          "issn": "0167-2681",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Risk and Insurance",
+          "issn": "0022-4367",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Economic Dynamics",
+          "issn": "1094-2025",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Economic Dynamics & Control",
+          "issn": "0165-1889",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Brookings Papers on Economic Activity",
+          "issn": "0007-2303",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Economic Growth",
+          "issn": "1381-4338",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "World Development",
+          "issn": "0305-750X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Ecological Economics",
+          "issn": "0921-8009",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Economic Policy",
+          "issn": "0266-4658",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Forecasting",
+          "issn": "0169-2070",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Human Resources",
+          "issn": "0022-166X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Real Estate Finance and Economics",
+          "issn": "0895-5638",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Mathematical Economics",
+          "issn": "0304-4068",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Environmental Economics and Policy",
+          "issn": "1750-6816",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Financial Research",
+          "issn": "0270-2592",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Quantitative Finance and Accounting",
+          "issn": "0924-865X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Corporate Finance Studies",
+          "issn": "2046-9136",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Canadian Journal of Agricultural Economics-Revue Canadienne D Agroeconomie",
+          "issn": "0008-3976",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Oxford Review of Economic Policy",
+          "issn": "0266-903X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Structural Change and Economic Dynamics",
+          "issn": "0954-349X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Economic Analysis and Policy",
+          "issn": "0313-5926",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "1",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Economic Surveys",
+          "issn": "0950-0804",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of International Financial Markets Institutions & Money",
+          "issn": "1042-4431",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "European Review of Agricultural Economics",
+          "issn": "0165-1587",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Industry and Innovation",
+          "issn": "1366-2716",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of International Political Economy",
+          "issn": "0969-2290",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Environmental & Resource Economics",
+          "issn": "0924-6460",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Journal of Agricultural Economics",
+          "issn": "0002-9092",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "European Economic Review",
+          "issn": "0014-2921",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Business Finance & Accounting",
+          "issn": "0306-686X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Health Economics",
+          "issn": "1057-9230",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "European Financial Management",
+          "issn": "1354-7798",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Finance and Stochastics",
+          "issn": "0949-2984",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Explorations in Economic History",
+          "issn": "0014-4983",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Law Economics & Organization",
+          "issn": "8756-6222",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Industrial Organization",
+          "issn": "0167-7187",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Derivatives",
+          "issn": "1074-1240",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "New Political Economy",
+          "issn": "1356-3467",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Oxford Bulletin of Economics and Statistics",
+          "issn": "0305-9049",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Money, Credit and Banking",
+          "issn": "0022-2879",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Corporate Finance",
+          "issn": "0929-1199",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Financial Intermediation",
+          "issn": "1042-9573",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Finance",
+          "issn": "1572-3097",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "European Journal of the History of Economic Thought",
+          "issn": "0967-2567",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Financial Stability",
+          "issn": "1572-3089",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Regional Science and Urban Economics",
+          "issn": "0166-0462",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Review of Finance",
+          "issn": "1369-412X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Economic Theory",
+          "issn": "0938-2259",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Behavioral and Experimental Finance",
+          "issn": "2214-6350",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "1",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Economic Review-Insights",
+          "issn": "2640-205X",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Research in International Business and Finance",
+          "issn": "0275-5319",
+          "url": null,
+          "language": "en",
+          "original_category": "经济学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        }
+      ]
+    },
+    {
+      "key": "management",
+      "label": "管理学",
+      "color": "#0369a1",
+      "journals": [
+        {
+          "name": "管理世界",
+          "issn": "11-1235/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTXINnH5yK0TKPhpJ6knnPmQUN2BAFsOMBkcZdq8zfYOYYWhUKClruj-EyPLAc2oOApGB8Mb0EzlcXcvZlw_PMAMfaIy_otFqlY=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文特类",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "南开管理评论",
+          "issn": "12-1288/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTXMXZskGytWiWacCXITtJq4LtxwB3bo7-jz0nJrycqxVPLw5Plzi4pIaWcg11xUX175Xs_VU_OP8dS7ZrTObQxeS7ojbJcfVik=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "中国软科学",
+          "issn": "11-3036/G3",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTUJjse--FvVshINQYsmV6q00Pm1X9_spTLItnIF3avyBH4FoHSS6VlxTXuXvLtgvkr8s13RyiSuRlFG3n7nW40kKEtyqBzABaE=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "科研管理",
+          "issn": "11-1567/G3",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTVnbblLclQL03OwM_iAskLbTXd3n-L-eNKBsNsvWjmTjBkgr5tnM9u31ggtimYsWu3KOPKMYjTQwjCC5xqqlz7faPVMOuNhcHs=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "科学学研究",
+          "issn": "11-1805/G3",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTX9MegWzlXpZBn-1oaE8ldLdeyQb4YA3eYAqITDRLcnWMOAPKiSaN5coLQNc3AscT227WsT24orPjF0ZAlGj-01JHwHh-5BKzk=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "管理科学学报",
+          "issn": "12-1275/G3",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTU89TbuMSEb1CY0WYY8LGx-1OlZBaTiJnu2p8K2rb2-leNnyT-xi_ByhSSw2-Htm86GfG3AgCtbyZ6OQtxW-tBKg2BSPb_PD8Y=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "公共管理学报",
+          "issn": "23-1523/F",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTXXV3hkr2tcZyZOMt1TOzh6Wg8ISaF6Y0eMnsjskhPq3sdEP40-P35t_BQ38nQS85hKQP8jWuRcDi4bbfO7f6Pz8OkklLdrIt8=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Academy of Management Journal",
+          "issn": "0001-4273",
+          "url": "https://journals.aom.org/journal/amj",
+          "language": "en",
+          "original_category": "英文TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Academy of Management Review",
+          "issn": "0363-7425",
+          "url": "https://journals.aom.org/journal/amr",
+          "language": "en",
+          "original_category": "英文TOP",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Journal of Management",
+          "issn": "0149-2063",
+          "url": "https://journals.sagepub.com/home/jom",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of the Academy of Marketing Science",
+          "issn": "0092-0703",
+          "url": "https://link.springer.com/journal/11747",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Marketing",
+          "issn": "0022-2429",
+          "url": "https://journals.sagepub.com/home/jmx",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Journal of Business Venturing",
+          "issn": "0883-9026",
+          "url": "https://www.sciencedirect.com/journal/journal-of-business-venturing",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of International Business Studies",
+          "issn": "0047-2506",
+          "url": "https://www.palgrave.com/gp/journal/41267",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Entrepreneurship Theory and Practice",
+          "issn": "1042-2587",
+          "url": "https://journals.sagepub.com/home/etp",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Strategic Management Journal",
+          "issn": "0143-2095",
+          "url": "https://onlinelibrary.wiley.com/journal/10970266",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Journal of Management Studies",
+          "issn": "0022-2380",
+          "url": "https://onlinelibrary.wiley.com/journal/14676486",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Consumer Research",
+          "issn": "0093-5301",
+          "url": "https://academic.oup.com/jcr",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Journal of Operations Management",
+          "issn": "0272-6963",
+          "url": "https://onlinelibrary.wiley.com/journal/18731317",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Strategic Entrepreneurship Journal",
+          "issn": "1932-4391",
+          "url": "https://onlinelibrary.wiley.com/journal/1932443x",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Accounting Research",
+          "issn": "0021-8456",
+          "url": "https://onlinelibrary.wiley.com/journal/1475679x",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Journal of Marketing Research",
+          "issn": "0022-2437",
+          "url": "https://journals.sagepub.com/home/mrj",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Accounting Review",
+          "issn": "0001-4826",
+          "url": "https://publications.aaahq.org/accounting-review",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Management Science",
+          "issn": "0025-1909",
+          "url": "https://pubsonline.informs.org/journal/mnsc",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Human Resource Management",
+          "issn": "0090-4848",
+          "url": "https://onlinelibrary.wiley.com/journal/1099050x",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Organization Science",
+          "issn": "1047-7039",
+          "url": "https://pubsonline.informs.org/journal/orsc",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Marketing Science",
+          "issn": "0732-2399",
+          "url": "https://pubsonline.informs.org/journal/mksc",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Review of Accounting Studies",
+          "issn": "1380-6653",
+          "url": "https://link.springer.com/journal/11142",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Contemporary Accounting Research",
+          "issn": "0823-9150",
+          "url": "https://onlinelibrary.wiley.com/journal/19113846",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Consumer Psychology",
+          "issn": "1057-7408",
+          "url": "https://www.sciencedirect.com/journal/journal-of-consumer-psychology",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Harvard Business Review",
+          "issn": "0017-8012",
+          "url": "https://hbr.org/",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Retailing",
+          "issn": "0022-4359",
+          "url": "https://www.sciencedirect.com/journal/journal-of-retailing",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Research in Marketing",
+          "issn": "0167-8116",
+          "url": "https://www.sciencedirect.com/journal/international-journal-of-research-in-marketing",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Organization Studies",
+          "issn": "0170-8406",
+          "url": "https://journals.sagepub.com/home/oss",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Organizational Behavior and Human Decision Processes",
+          "issn": "0749-5978",
+          "url": "https://www.sciencedirect.com/journal/organizational-behavior-and-human-decision-processes",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Human Relations",
+          "issn": "0018-7267",
+          "url": "https://journals.sagepub.com/home/hum",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "MIT Sloan Management Review",
+          "issn": "1532-9194",
+          "url": "https://sloanreview.mit.edu/",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Accounting & Economics",
+          "issn": "0165-4101",
+          "url": "https://www.sciencedirect.com/journal/journal-of-accounting-and-economics",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Accounting Organization and Society",
+          "issn": "0361-3682",
+          "url": "https://www.sciencedirect.com/journal/accounting-organizations-and-society",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "British Journal of Management",
+          "issn": "1045-3172",
+          "url": "https://onlinelibrary.wiley.com/journal/14678551",
+          "language": "en",
+          "original_category": "工商管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Management Reviews",
+          "issn": "1460-8545",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Interactive Marketing",
+          "issn": "1094-9968",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "California Management Review",
+          "issn": "0008-1256",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Business Strategy and the Environment",
+          "issn": "0964-4733",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Hospitality Management",
+          "issn": "0278-4319",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Human Resource Management Review",
+          "issn": "1053-4822",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Family Business Review",
+          "issn": "0894-4865",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Supply Chain Management-An International Journal",
+          "issn": "1359-8546",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Project Management",
+          "issn": "0263-7863",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Contemporary Hospitality Management",
+          "issn": "0959-6119",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Advertising",
+          "issn": "0091-3367",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Industrial Marketing Management",
+          "issn": "0019-8501",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Service Management",
+          "issn": "1757-5818",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Physical Distribution & Logistics Management",
+          "issn": "0960-0035",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Long Range Planning",
+          "issn": "0024-6301",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Small Business Economics",
+          "issn": "0921-898X",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Business Review",
+          "issn": "0969-5931",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Organization & Environment",
+          "issn": "1086-0266",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Small Business Journal",
+          "issn": "0266-2426",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Electronic Commerce",
+          "issn": "1086-4415",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Business & Society",
+          "issn": "0007-6503",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Small Business Management",
+          "issn": "0047-2778",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Marketing Review",
+          "issn": "0265-1335",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Business Logistics",
+          "issn": "0735-3766",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Human Resource Management",
+          "issn": "0958-5192",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "British Accounting Review",
+          "issn": "0890-8389",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "R&D Management",
+          "issn": "0033-6807",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of International Management",
+          "issn": "1075-4253",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Technology Transfer",
+          "issn": "0892-9912",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Occupational and Organizational Psychology",
+          "issn": "0963-1798",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Purchasing and Supply Management",
+          "issn": "1478-4092",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Management Accounting Research",
+          "issn": "1044-5005",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Critical Perspectives on Accounting",
+          "issn": "1045-2354",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Auditing-A Journal of Practice & Theory",
+          "issn": "0278-0380",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "European Accounting Review",
+          "issn": "0963-8180",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Accounting Forum",
+          "issn": "0155-9982",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Abacus-A Journal of Accounting Finance and Business Studies",
+          "issn": "0001-3072",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Accounting and Public Policy",
+          "issn": "1873-2070",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of the American Taxation Association",
+          "issn": "1558-8017",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Accounting, Auditing & Finance",
+          "issn": "0148-558X",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Accounting Literature",
+          "issn": "0737-4607",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Accounting",
+          "issn": "1094-4060",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Behavioral Research in Accounting",
+          "issn": "1558-8009",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Asset Pricing Studies",
+          "issn": "2045-9939",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Business Research",
+          "issn": "0148-2963",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Technological forecasting and Social Change",
+          "issn": "0040-1625",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Psychology & Marketing",
+          "issn": "0742-6046",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Strategic Organization",
+          "issn": "1476-1270",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Accounting Auditing & Accountability Journal",
+          "issn": "0951-3574",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "European Journal of Marketing",
+          "issn": "0309-0566",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Tourism Management",
+          "issn": "0261-5177",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Service Research",
+          "issn": "1094-6705",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Organizational Behavior",
+          "issn": "0894-3796",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Organizational Research Methods",
+          "issn": "1094-4281",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Information & Management",
+          "issn": "0378-7206",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of World Business",
+          "issn": "1090-9516",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Personnel Psychology",
+          "issn": "0031-5826",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Supply Chain Management",
+          "issn": "1523-2409",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Product Innovation Management",
+          "issn": "0737-6782",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Travel Research",
+          "issn": "0047-2875",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Academy of Management Perspectives",
+          "issn": "1558-9080",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Operations & Production Management",
+          "issn": "0144-3577",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Global Strategy Journal",
+          "issn": "2042-5791",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Corporate Governance-An International Review",
+          "issn": "0964-8410",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Business Ethics",
+          "issn": "0167-4544",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Business Finance and Accounting",
+          "issn": "1468-5957",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Foundations and Trends in Accounting",
+          "issn": "1554-0650",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "China Journal of Accounting Research",
+          "issn": "1755-3091",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Academy of Management Annals",
+          "issn": "1941-6520",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Annual Review of Organizational Psychology and Organizational Behavior",
+          "issn": "2327-0608",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Leadership Quarterly",
+          "issn": "1048-9843",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Human Resource Management Journal",
+          "issn": "0954-5395",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Emerging Markets Finance and Trade",
+          "issn": "1540-496X",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of International Financial Management & Accounting",
+          "issn": "0954-1314",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Emerging Markets Review",
+          "issn": "1566-0141",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Financial Markets, Institutions and Instruments",
+          "issn": "0963-8008",
+          "url": null,
+          "language": "en",
+          "original_category": "工商管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Research Policy",
+          "issn": "0048-7333",
+          "url": "https://www.sciencedirect.com/journal/research-policy",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Public Administration Review",
+          "issn": "0033-3352",
+          "url": "https://onlinelibrary.wiley.com/journal/15406210",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Regulation & Governance",
+          "issn": "1748-5983",
+          "url": "https://onlinelibrary.wiley.com/journal/17485991",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "British Journal of Industrial Relations",
+          "issn": "0007-1080",
+          "url": "https://onlinelibrary.wiley.com/journal/14678543",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Policy Studies Journal",
+          "issn": "0190-292X",
+          "url": "https://onlinelibrary.wiley.com/journal/15410072",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Public Administration Research and Theory",
+          "issn": "1053-1858",
+          "url": "https://academic.oup.com/jpart",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Administrative Science Quarterly",
+          "issn": "0001-8392",
+          "url": "https://journals.sagepub.com/home/asq",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4*",
+            "cssci": false,
+            "ft50": true,
+            "utd24": true
+          }
+        },
+        {
+          "name": "Public Management Review",
+          "issn": "1471-9037",
+          "url": "https://www.tandfonline.com/journals/rpxm20",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Government Information Quarterly",
+          "issn": "0740-624X",
+          "url": "https://www.sciencedirect.com/journal/government-information-quarterly",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Review of Public Administration",
+          "issn": "0275-0740",
+          "url": "https://journals.sagepub.com/home/arp",
+          "language": "en",
+          "original_category": "公共管理特类",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Bulletin of the World Health Organization",
+          "issn": "0042-9686",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Journal of Bioethics",
+          "issn": "1526-5161",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Journal of Epidemiology",
+          "issn": "0300-5771",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Structural Equation Modeling-A Multidisciplinary Journal",
+          "issn": "1070-5511",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Policy Analysis and Management",
+          "issn": "0276-8739",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Public Administration",
+          "issn": "0033-3298",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Information Communication & Society",
+          "issn": "1369-118X",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "American Journal of Epidemiology",
+          "issn": "0002-9262",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Accident Analysis and Prevention",
+          "issn": "0001-4575",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Policy Sciences",
+          "issn": "0032-2687",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "1",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Child Abuse & Neglect",
+          "issn": "0145-2134",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Sex Research",
+          "issn": "0022-4499",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Food Security",
+          "issn": "1876-4517",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Sociological Methods & Research",
+          "issn": "0049-1241",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Social Science Computer Review",
+          "issn": "0894-4393",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Child Maltreatment",
+          "issn": "1077-5595",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Evolution and Human Behavior",
+          "issn": "1090-5138",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Cancer Survivorship",
+          "issn": "1932-2259",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Gender & Society",
+          "issn": "0891-2432",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Archives of Sexual Behavior",
+          "issn": "0004-0002",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Nonprofit and Voluntary Sector Quarterly",
+          "issn": "0899-7640",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Sociological Methodology",
+          "issn": "0081-1750",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Policy & Politics",
+          "issn": "0305-5736",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "China Journal",
+          "issn": "1324-9347",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "China Quarterly",
+          "issn": "0305-7410",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Industrial Relations",
+          "issn": "0019-8676",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Review of Public Personnel Administration",
+          "issn": "0734-371X",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Governance",
+          "issn": "0952-1895",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "4",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "International Public Management Journal",
+          "issn": "1096-7494",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Local Government Studies",
+          "issn": "0300-3930",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Public Budgeting and Finance",
+          "issn": "0275-1100",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "National Tax Journal",
+          "issn": "0028-0283",
+          "url": null,
+          "language": "en",
+          "original_category": "公共管理A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        }
+      ]
+    },
+    {
+      "key": "statistics",
+      "label": "统计学",
+      "color": "#4f46e5",
+      "journals": [
+        {
+          "name": "统计研究",
+          "issn": "11-1302/C",
+          "url": "https://navi.cnki.net/knavi/detail?p=tCC4MEVWsTXldEWh912kn6PL8hP8RHkljgcrOjAb3e_qBFl3NbsePRN7bYPqrIQ58dDddiurZbsj2cPwG216_ARKarACdEZSSrvpjbLSCLk=&uniplatform=NZKPT&language=CHS",
+          "language": "zh",
+          "original_category": "中文A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": true,
+            "ft50": false,
+            "utd24": false
+          }
+        }
+      ]
+    },
+    {
+      "key": "environment",
+      "label": "环境科学",
+      "color": "#059669",
+      "journals": [
+        {
+          "name": "Applied Energy",
+          "issn": "0306-2619",
+          "url": "https://www.sciencedirect.com/journal/applied-energy",
+          "language": "en",
+          "original_category": "环境科学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Climate Policy",
+          "issn": "1469-3062",
+          "url": "https://www.tandfonline.com/journals/tcpo20",
+          "language": "en",
+          "original_category": "环境科学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Land Use Policy",
+          "issn": "0264-8377",
+          "url": "https://www.sciencedirect.com/journal/land-use-policy",
+          "language": "en",
+          "original_category": "环境科学A1",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Energy Policy",
+          "issn": "0301-4215",
+          "url": "https://www.sciencedirect.com/journal/energy-policy",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Renewable and Sustainable Energy Reviews",
+          "issn": "1364-0321",
+          "url": "https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Resources Conservation and Recycling",
+          "issn": "0921-3449",
+          "url": "https://www.sciencedirect.com/journal/resources-conservation-and-recycling",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Sustainable Production and Consumption",
+          "issn": "2352-5509",
+          "url": "https://www.sciencedirect.com/journal/sustainable-production-and-consumption",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Environmental Science & Technology",
+          "issn": "0013-936X",
+          "url": "https://pubs.acs.org/journal/esthag",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Cleaner Production",
+          "issn": "0959-6526",
+          "url": "https://www.sciencedirect.com/journal/journal-of-cleaner-production",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": "1",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Sustainable Cities and Society",
+          "issn": "2210-6715",
+          "url": "https://www.sciencedirect.com/journal/sustainable-cities-and-society",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Energy Conversion and Management",
+          "issn": "0196-8904",
+          "url": "https://www.sciencedirect.com/journal/energy-conversion-and-management",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Science of the Total Environment",
+          "issn": "0048-9697",
+          "url": "https://www.sciencedirect.com/journal/science-of-the-total-environment",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Resources Policy",
+          "issn": "0301-4207",
+          "url": "https://www.sciencedirect.com/journal/resources-policy",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": "2",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Renewable Energy",
+          "issn": "0960-1481",
+          "url": "https://www.sciencedirect.com/journal/renewable-energy",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Energy",
+          "issn": "0360-5442",
+          "url": "https://www.sciencedirect.com/journal/energy",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Environmental Research",
+          "issn": "1096-0953",
+          "url": "https://www.sciencedirect.com/journal/environmental-research",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Journal of Environmental Management",
+          "issn": "1095-8630",
+          "url": "https://www.sciencedirect.com/journal/journal-of-environmental-management",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Environmental Impact Assessment Review",
+          "issn": "0195-9255",
+          "url": "https://www.sciencedirect.com/journal/environmental-impact-assessment-review",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Environmental Science & Policy",
+          "issn": "1462-9011",
+          "url": "https://www.sciencedirect.com/journal/environmental-science-and-policy",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Energy & Environment",
+          "issn": "0958-305X",
+          "url": "https://journals.sagepub.com/home/eae",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Land Degradation & Development",
+          "issn": "1085-3278",
+          "url": "https://onlinelibrary.wiley.com/journal/1099145x",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Environment and Planning B-Urban Analytics and City Science",
+          "issn": "2399-8083",
+          "url": "https://journals.sagepub.com/home/epb",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": null,
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        },
+        {
+          "name": "Environment and Planning C-Politics and Space",
+          "issn": "2399-6544",
+          "url": "https://journals.sagepub.com/home/epc",
+          "language": "en",
+          "original_category": "环境科学A2",
+          "badges": {
+            "jcr": null,
+            "ajg": "3",
+            "cssci": false,
+            "ft50": false,
+            "utd24": false
+          }
+        }
+      ]
+    }
+  ]
+}
